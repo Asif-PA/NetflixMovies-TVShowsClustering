@@ -21,18 +21,11 @@
 </p>
 
 ### Data Source:
-- [Dataset](https://drive.google.com/file/d/1ivCgtHH6pubugtJhpFtodnL3c3mA8HJ_/view?usp=share_link) - Dataset taken from AlmaBetter
-
-### Input Files:
-  <li><b>NETFLIX MOVIES AND TV SHOW CLUSTERING.csv</b> - Contains the records of movies and tv show released during 1925 to 2021.</li>
-
-### Executable Files:
-- [Netflix-movies-and-tv-show-clustering](https://colab.research.google.com/drive/1xYcSRlQ-JsYnrf7quPDX7RSqFbU2bjPd?usp=share_link) - Includes all functions required for bulding and deploying the model
+-  - Dataset taken from AlmaBetter
 
 ### Output:
-- [Google Colab](https://colab.research.google.com/drive/1xYcSRlQ-JsYnrf7quPDX7RSqFbU2bjPd?usp=share_link) - All the outputs are visible in the provided colab notebook.
+-https://colab.research.google.com/drive/1ilBelPWeFnpjiJOhn8N20c29nkeyfddH?usp=sharing - All the outputs are visible in the provided colab notebook.
 
-![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
 ## 🗺️ Dataset Description
 

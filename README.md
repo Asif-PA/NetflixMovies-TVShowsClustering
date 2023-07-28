@@ -75,8 +75,31 @@ The project followed a step-by-step process that included handling null values, 
 
 ## :scroll: Conclusion
 
-In conclusion, this project utilized natural language processing (NLP) techniques and clustering algorithms to analyze the Netflix dataset of movies and TV shows till 2021. The project aimed to develop a content-based recommendation system to enhance user experience and prevent subscriber churn for Netflix, which currently has over 220 million subscribers. The project followed a step-by-step process that included handling null values, nested columns, binning the rating attribute, performing EDA, creating clusters using various attributes, reducing dimensionality, and developing a recommender system using the cosine similarity matrix. The findings from this project provide valuable insights into trends in the rapidly growing world of streaming entertainment and help improve the user experience for subscribers. The developed recommendation system is expected to improve the user experience and reduce subscriber churn for Netflix. The project's success can be measured by its ability to deliver personalized recommendations to the user, enhance the user experience, and prevent subscriber churn.
+> Our dataset contain 7787 rows and 12 columns.There was'nt any duplicates in dataset, and maximum number of null value was present in director column followed by cast.
 
+> Most of the content on Netflix is from Movies(~69%) and only 31% tv shows.
+
+> Raul Campos, jan suter was most famous director among all
+
+> Anupam Kher is most popular actor on Netflix.
+
+> Most of the content released on Netflix by the end of current year and starting of new year.
+
+> International Movies and Dramas are topmost Genres on Netflix.
+
+> Most of the content on Netflix is TV-MA(Mature Audience) rated.
+
+> United states has the highest number of content on the netflix ,followed by India.
+
+> Most of the movies have duration of 90mimutes.
+
+> In title column we got 'Love','Man','World','Story','Life' seems very common word.
+
+> We have implemented 5 clustering model to divide the dataset in clusters.
+
+> K-means clustering shows that '4' will be optimum no of clusters with the silhoutte score of 0.45. But we selected Optimum cluster number as 5 after Elbow curve cross validation.Thus K-means clustering will be best for this data set.
+
+>We have built cosine based recommender system using cosine_similarity, which was wroking nicely.
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
 ## 💶 Credits
